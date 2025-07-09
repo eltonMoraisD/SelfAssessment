@@ -116,7 +116,7 @@
 - Infrastructure
   - V8: 👂 heard
   - Node.js: 🖐️ used
-  - npm
+  - npm: 🖐️ used
   - prettier: 🖐️ used
   - MDN
   - TC39
