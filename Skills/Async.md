@@ -2,7 +2,7 @@
 
 - Theory
   - Event loop
-  - `try..catch`
+  - `try..catch`: 🖐️used
   - Non-blocking
   - Async I/O
   - Thread pool
@@ -16,29 +16,29 @@
   - Race conditions
   - Dead locks
   - Live locks
-  - Concurrent programming
+  - Concurrent programming: 🎓 known
   - Parallel programming
   - Actor Model
-  - Thread
+  - Thread: 👂heard
   - Process
 - Async contracts
-  - Callbacks
+  - Callbacks: 🖐️ used
   - Callback-last-error-first
   - Thenable
-  - Promise
-  - Async/await
+  - Promise: 🖐️ used
+  - Async/await: 🖐️ used
   - Future
   - Deferred
   - Sync generator
   - Async Generator
   - Async Iterator
-  - Event
+  - Event:
   - Coroutine
   - Goroutine
   - Signal
   - Stream
   - Chain of responsibility
-  - Middleware
+  - Middleware: 🎓 known
   - Locks
 - Async adapters and utils
   - callbackify
@@ -47,7 +47,7 @@
   - Callbacks compose
   - Async compose
 - Async abstractions interfaces
-  - EventEmitter
+  - EventEmitter:
   - Observable/Observer
   - Readable
   - Writable
@@ -68,7 +68,7 @@
   - Promise double resolve
   - Atomics
   - High resolution clock
-  - Callback hell
+  - Callback hell: 🎓 known
   - Promise hell
   - ref() and unref()
   - Error handling in async code
@@ -79,7 +79,7 @@
 - Techniques
   - Async.js library
   - RxJS library
-  - Promise.all
+  - Promise.all: 🖐️ used
   - Promise.allSettled
   - Promise.race
   - Promise.any
