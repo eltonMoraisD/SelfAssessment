@@ -2,7 +2,7 @@
 
 - Theory
   - Event loop
-  - `try..catch`: 🖐️used
+  - `try..catch`: 🖐️ used
   - Non-blocking
   - Async I/O
   - Thread pool
@@ -19,7 +19,7 @@
   - Concurrent programming: 🎓 known
   - Parallel programming
   - Actor Model
-  - Thread: 👂heard
+  - Thread: 👂 heard
   - Process
 - Async contracts
   - Callbacks: 🖐️ used
@@ -32,7 +32,7 @@
   - Sync generator
   - Async Generator
   - Async Iterator
-  - Event:
+  - Event
   - Coroutine
   - Goroutine
   - Signal
@@ -47,7 +47,7 @@
   - Callbacks compose
   - Async compose
 - Async abstractions interfaces
-  - EventEmitter:
+  - EventEmitter
   - Observable/Observer
   - Readable
   - Writable

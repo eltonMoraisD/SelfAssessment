@@ -29,8 +29,8 @@
   - Data flow
   - Code reuse
   - Defensive programming
-  - Don't repeat yourself (DRY): 👂heard
-  - KISS principle: 👂heard
+  - Don't repeat yourself (DRY): 👂 heard
+  - KISS principle: 👂 heard
 - Syntax and concepts
   - Value: 🖐️ used
   - Identifier
@@ -44,7 +44,7 @@
   - Procedure
   - Method: 🖐️ used
   - Class: 🖐️ used
-  - Prototype: 👂heard
+  - Prototype: 👂 heard
   - Event
   - Type
   - Flag
@@ -87,10 +87,10 @@
   - Pure function
   - Lambda expression
   - Side effects
-  - Closure: 👂heard
+  - Closure: 👂 heard
   - Partial application
-  - Currying: 👂heard
-  - Higher order: 👂heard
+  - Currying: 👂 heard
+  - Higher order: 👂 heard
   - Recursion: 🎓 known
   - Tail call optimisation
   - Callback: 🖐️ used
@@ -153,13 +153,13 @@
   - Dynamic linking
   - Static linking
   - Runtime
-  - Virtual machine: 👂heard
+  - Virtual machine: 👂 heard
   - Register-based VM
   - Stack-based VM
   - Containerization
   - Debugger
   - Tracing
-  - Garbage collection: 👂heard
+  - Garbage collection: 👂 heard
   - Refactoring
   - Code review
   - Exception
