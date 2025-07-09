@@ -3,8 +3,8 @@
 - Internals and concepts
   - Strong and weak sides of node.js
   - Stateful and stateless servers
-  - Nonblocking I/O and blocking code:
-  - Event loop phases:
+  - Nonblocking I/O and blocking code
+  - Event loop phases
   - Event loop microtasks and macrotasks
   - Garbage collection: 👂 heard
   - Node.js LTS schedule
@@ -70,8 +70,8 @@
   - HTTP(S): 🎓 known
   - TCP/SSL: 🎓 known
   - UDP: 🎓 known
-  - TLS: 👂heard
-  - Websocket: 👂heard
+  - TLS: 👂 heard
+  - Websocket: 👂 heard
   - SSE
   - HTTP/3 (QUIC)
   - Long polling

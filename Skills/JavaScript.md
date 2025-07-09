@@ -4,76 +4,76 @@
   - `Object`: 🖐️ used
   - `Function`: 🖐️ used
   - `Boolean`: 🖐️ used
-  - `Number` : 🖐️ used
-  - `BigInt`: 🎓known
+  - `Number`: 🖐️ used
+  - `BigInt`: 🎓 known
   - `String`: 🖐️ used
-  - `Symbol`: 👂heard
+  - `Symbol`: 👂 heard
   - `Infinity`
-  - `NaN`: 🎓known
+  - `NaN`: 🎓 known
   - `undefined`: 🖐️ used
   - `null`: 🖐️ used
   - `this`: 🖐️ used
-  - `instanceof`: 🎓known
-  - `...rest`: 🙋explained
+  - `instanceof`: 🎓 known
+  - `...rest`: 🙋 explained
   - `...spread`: 🖐️ used
-  - `typeof` 🖐️ used
+  - `typeof`: 🖐️ used
   - Destructuring: 🖐️ used
-  - Generators:🖐️ used
+  - Generators: 🖐️ used
   - Iterators
   - Async generator: 👂 heard
   - Async iterator
   - Chaining: 👂 heard
   - Optional chaining: 🖐️ used
-  - IIFE: 👂heard
+  - IIFE: 👂 heard
   - Async IIFE
   - `global`
   - `globalThis`
   - `window`
-  - Getters and setters : 🙋explained
+  - Getters and setters: 🙋 explained
   - `__proto__`
   - `prototype`
   - Equality operators: 🖐️ used
   - Logical operators: 🖐️ used
   - Logical Assignment: 🖐️ used
   - Bitwise operators
-  - Ternary operator: 🙋explained
+  - Ternary operator: 🙋 explained
   - `void`: 🖐️ used
   - `yield`: 🖐️ used
   - `await`: 🖐️ used
-  - Template literal: 🖐️used
+  - Template literal: 🖐️ used
   - Strict mode: 👂 heard
-  - Hoisting: 🖐️used
+  - Hoisting: 🖐️ used
   - `delete`: 👂 heard
   - `in`
-  - `super`: 🙋explained
+  - `super`: 🙋 explained
   - `eval`
   - `static`
-  - `Number.parseInt`: 🖐️used
-  - `Number.parseFloat`: 🖐️used
+  - `Number.parseInt`: 🖐️ used
+  - `Number.parseFloat`: 🖐️ used
   - Property descriptors
   - Sealing properties
-  - Freezing properties: 👂heard
+  - Freezing properties: 👂 heard
   - Computed properties
   - Instance class fields
-  - Static class fields: 🙋explained
-  - Private class fields: 🙋explained
-  - Private class methods: 🙋explained
+  - Static class fields: 🙋 explained
+  - Private class fields: 🙋 explained
+  - Private class methods: 🙋 explained
 - Statements
-  - `if` : 🙋explained
-  - `while` : 🙋explained
-  - `do..while` : 🙋explained
-  - `for` : 🖐️ used
-  - `for..in` : 🎓 known
-  - `for..of` : 🎓 known
-  - `for await`:
-  - `throw` : 🖐️ used
-  - `break` : 🖐️ used
-  - `continue` : 🖐️ used
-  - `import` : 🖐️ used
-  - `export` : 🖐️ used
+  - `if`: 🙋 explained
+  - `while`: 🙋 explained
+  - `do..while`: 🙋 explained
+  - `for`: 🖐️ used
+  - `for..in`: 🎓 known
+  - `for..of`: 🎓 known
+  - `for await`
+  - `throw`: 🖐️ used
+  - `break`: 🖐️ used
+  - `continue`: 🖐️ used
+  - `import`: 🖐️ used
+  - `export`: 🖐️ used
   - `label`
-  - `try..catch` : 🖐️ used
-  - `switch` : 🖐️ used
+  - `try..catch`: 🖐️ used
+  - `switch`: 🖐️ used
   - `class`: 🖐️ used
   - `extends`: 🎓 known
   - `with`
@@ -106,7 +106,7 @@
   - `Reflect`: 👂 heard
   - `Error`
   - `Atomics`
-  - `JSON`:🖐️ used
+  - `JSON`: 🖐️ used
   - `WeakRef`
   - `FinalizationRegistry`
   - `Intl`

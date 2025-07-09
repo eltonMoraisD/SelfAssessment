@@ -18,7 +18,7 @@
   - Automata-based programming
   - Domain-specific languages
   - Multi-paradigm programming
-  - Metaprogramming: 👂heard
+  - Metaprogramming: 👂 heard
   - Actor model
   - Lambda calculus
   - Black box
@@ -32,14 +32,14 @@
   - Static method: 🖐️ used
   - Method: 🖐️ used
   - Async method: 🖐️ used
-  - Getters, Setters: 🙋explained
+  - Getters, Setters: 🙋 explained
   - Public fields: 🖐️ used
   - Private fields: 🖐️ used
   - Field declarations
   - Inheritance: 🖐️ used
   - Parent class
   - Polymorphism: 🖐️ used
-  - Abstract class: 🙋explained
+  - Abstract class: 🙋 explained
   - Interface: 🖐️ used
   - Encapsulation: 🖐️ used
   - Hidden class
