@@ -166,7 +166,7 @@
   - Unittesting
   - git: 🖐️ used
   - Github: 🖐️ used
-  - Docker: 🖐️ used
+  - Docker: 🎓 known
   - Kubernetes: 🎓 known
   - GCC
   - LLVM
