@@ -48,8 +48,8 @@
   - `super`: 🙋explained
   - `eval`
   - `static`
-  - `Number.parseInt`
-  - `Number.parseFloat`
+  - `Number.parseInt`: 🖐️used
+  - `Number.parseFloat`: 🖐️used
   - Property descriptors
   - Sealing properties
   - Freezing properties: 👂heard
