@@ -6,7 +6,7 @@
   - Nonblocking I/O and blocking code
   - Event loop phases
   - Event loop microtasks and macrotasks
-  - Garbage collection
+  - Garbage collection: 👂 heard
   - Node.js LTS schedule
   - I/O-bound, CPU-bound, memory-bound tasks
   - Interactive applications (close to real-time)
@@ -17,11 +17,11 @@
   - Caching in CJS and ESM
   - Modules as singletons
   - Contexts and scripts module `node:vm`
-  - Dependencies: `npm`, `node_modules`
-  - Files `package.json`, `package-lock.json`
+  - Dependencies: `npm`, `node_modules`: 🖐️ used
+  - Files `package.json`, `package-lock.json`: 🖐️ used
   - Module-based permissions model
   - Isolation with modularity
-  - Dependency injection
+  - Dependency injection: 👂 heard
   - DI containers
   - Coupling and cohesion
   - Framework agnostic approach
@@ -33,7 +33,7 @@
   - Clustering
   - Watch filesystem changes with --watch
 - Internal API
-  - Streams API
+  - Streams API: 👂 heard
   - Web Streams API
   - Crypto API
   - Password hashing with crypto.scrypt
@@ -44,7 +44,7 @@
   - Performance hooks
   - Native fetch and nodejs/undici
   - async_hooks
-  - AsyncLocalStorage
+  - AsyncLocalStorage: 🎓 known
   - AsyncResource
   - Deprecated domain API
   - Node.js single executable
@@ -67,33 +67,33 @@
   - Protocol agnostic approach
   - Fetch API
   - IncomingMessage
-  - HTTP(S)
-  - TCP/SSL
-  - UDP
-  - TLS
-  - Websocket
+  - HTTP(S): 🎓 known
+  - TCP/SSL: 🎓 known
+  - UDP: 🎓 known
+  - TLS: 👂 heard
+  - Websocket: 👂 heard
   - SSE
   - HTTP/3 (QUIC)
   - Long polling
-  - REST
+  - REST: 🖐️ used
   - RPC
   - Routing
   - DoS
-  - DDoS
-  - XSS
+  - DDoS: 👂 heard
+  - XSS: 👂 heard
   - Path traversal
-  - CSRF
-  - DNS
-  - SQL injection
+  - CSRF: 👂 heard
+  - DNS: 🎓 known
+  - SQL injection: 👂 heard
   - noDelay
   - keep-alive
   - IP sticky sessions
 - Technique and tools
-  - Native test runner
+  - Native test runner: 👂 heard
   - Logging
   - Application configuring
-  - Testing
-  - CI/CD
+  - Testing: 🎓 known
+  - CI/CD: 👂 heard
   - Readable
   - Writable
   - Transform
@@ -107,8 +107,8 @@
   - Active record
   - Query builder
   - Object-Relational Mapping
-  - CRUD
-  - DTO
+  - CRUD: 🖐️ used
+  - DTO: 👂 heard
 - Error handling and debugging
   - `Error`
   - `error.cause`

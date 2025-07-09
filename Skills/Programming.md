@@ -16,8 +16,8 @@
   - Module
   - Library
   - Package
-  - Component
-  - Framework
+  - Component: 🖐️ used
+  - Framework: 🖐️ used
   - Platform
   - Source code
   - Object code
@@ -29,22 +29,22 @@
   - Data flow
   - Code reuse
   - Defensive programming
-  - Don't repeat yourself (DRY)
-  - KISS principle
+  - Don't repeat yourself (DRY): 👂 heard
+  - KISS principle: 👂 heard
 - Syntax and concepts
-  - Value
+  - Value: 🖐️ used
   - Identifier
-  - Variable
-  - Constant
+  - Variable: 🖐️ used
+  - Constant: 🖐️ used
   - Scalar
   - Literal
   - Expression
   - Heap
-  - Function
+  - Function: 🖐️ used
   - Procedure
-  - Method
-  - Class
-  - Prototype
+  - Method: 🖐️ used
+  - Class: 🖐️ used
+  - Prototype: 👂 heard
   - Event
   - Type
   - Flag
@@ -66,7 +66,7 @@
   - Return early
   - Fail-fast
 - Types
-  - Primitive types
+  - Primitive types: 🖐️ used
   - Reference types
   - Type systems
   - Strong typing
@@ -87,13 +87,13 @@
   - Pure function
   - Lambda expression
   - Side effects
-  - Closure
+  - Closure: 👂 heard
   - Partial application
-  - Currying
-  - Higher order
-  - Recursion
+  - Currying: 👂 heard
+  - Higher order: 👂 heard
+  - Recursion: 🎓 known
   - Tail call optimisation
-  - Callback
+  - Callback: 🖐️ used
   - Listener
   - Composition
   - Pipe
@@ -105,40 +105,40 @@
   - Generator
   - Coroutine
 - Data structures
-  - Array
+  - Array: 🖐️ used
   - Structure
   - Record
   - Enum
   - Instance
-  - Object
+  - Object: 🖐️ used
   - Collection
   - Set
   - Hash table
-  - Linked list
+  - Linked list: 🎓 known
   - Doubly list
   - Unrolled list
   - Circular list
-  - Queue
-  - Stack
+  - Queue: 🎓 known
+  - Stack: 🎓 known
   - Deque
-  - Tree
-  - Graph
+  - Tree: 🎓 known
+  - Graph: 🎓 known
   - Iterator
-  - Mutable state
-  - Immutable state
+  - Mutable state: 🖐️ used
+  - Immutable state: 🖐️ used
   - Serialization
-  - String parsing
-  - JSON
+  - String parsing: 🖐️ used
+  - JSON: 🖐️ used
   - JSON5
-  - YAML
+  - YAML: 🖐️ used
 - Networking
-  - DNS
+  - DNS: 🎓 known
   - CDN
-  - CORS
-  - IPv4
-  - IPv6
+  - CORS: 🎓 known
+  - IPv4: 🎓 known
+  - IPv6: 🎓 known
   - NAT
-  - URL
+  - URL: 🖐️ used
   - URN
   - URI
 - Process and tools
@@ -153,21 +153,21 @@
   - Dynamic linking
   - Static linking
   - Runtime
-  - Virtual machine
+  - Virtual machine: 👂 heard
   - Register-based VM
   - Stack-based VM
   - Containerization
   - Debugger
   - Tracing
-  - Garbage collection
+  - Garbage collection: 👂 heard
   - Refactoring
   - Code review
   - Exception
   - Unittesting
-  - git
-  - Github
-  - Docker
-  - Kubernetes
+  - git: 🖐️ used
+  - Github: 🖐️ used
+  - Docker: 🖐️ used
+  - Kubernetes: 🎓 known
   - GCC
   - LLVM
 - Antipatterns
