@@ -35,7 +35,7 @@
   - Equality operators: 🖐️ used
   - Logical operators: 🖐️ used
   - Logical Assignment: 🖐️ used
-  - Bitwise operators
+  - Bitwise operators: 🖐️ used
   - Ternary operator: 🙋 explained
   - `void`: 🖐️ used
   - `yield`: 🖐️ used
